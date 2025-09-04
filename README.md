@@ -45,7 +45,6 @@ Snapshots of my Power BI and Tableau dashboards are in the `/dashboards` folder.
 
 ---
 
-## 📬 Contact  
-- LinkedIn: [Your LinkedIn URL]  
+## 📬 Contact   
 - GitHub: [https://github.com/manisha-kothuri/data-analytics-projects](https://github.com/manisha-kothuri/data-analytics-projects)  
-- Email: [Your Email Address]  
+- Email: manisha.kothur2829@gmail.com 
